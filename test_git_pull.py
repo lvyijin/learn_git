@@ -1,0 +1,2 @@
+learn git pull conditions
+
